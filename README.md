@@ -1,0 +1,1 @@
+# skating_results_checker
